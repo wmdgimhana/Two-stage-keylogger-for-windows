@@ -46,7 +46,7 @@ Run the dropper:
 python dropper.py
 
 
-## 📚 Optional
+## 📚 Windows EXE
 
 **Create Windows .exe Files
 To make the dropper and malware more portable and easy to distribute, you can use PyInstaller to convert them into Windows executable files.**
